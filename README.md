@@ -1,0 +1,1 @@
+# StockProto1
